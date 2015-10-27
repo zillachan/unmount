@@ -1,0 +1,2 @@
+# unmount
+unmount sdcard
